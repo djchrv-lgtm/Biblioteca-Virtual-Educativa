@@ -1,0 +1,13 @@
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java compilado
+out/
+*.class
+
+# Archivos temporales
+*.log
+
+# Datos locales de la biblioteca
